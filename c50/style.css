@@ -1,0 +1,46 @@
+h1{color:burlywood}
+
+body{
+    background-color:white
+ 
+}
+.header
+{
+background-color:#204050;
+display:flex;
+justify-content:flex-end;
+    }
+
+
+.bodyimg
+{
+    display:flex;
+    justify-content: space-between;
+
+
+
+}
+
+
+
+.grid{
+  
+    display:flex;
+flex-wrap: wrap;
+}
+
+.grid img
+{
+border:2px solid white ;
+border-radius: 50px;
+}
+
+.origami
+{
+border-radius: 20px;
+background-color: ghostwhite;
+
+width: 20px;
+font-family: fantasy;
+
+}
